@@ -1,0 +1,35 @@
+1. Create Simulation of four non-normal random samples
+    - Exponential
+    - Weibull
+    - Uniform
+    - Inverse Triangle
+
+2. (done)use premade random number generator to simulate distributions
+
+3. For the triangle do the following for random number generator
+    -Compute PDF
+    -Compute CDF
+    -Solve for x by creating inverse CDF
+    -Use random uniform numbers between 0 and 1 as input for inverse PDF
+
+4. Generate >50000 random data values for each distributions
+
+5. Make independent samples averages x_bar of size n = 5, 30, 100
+
+6. Make a 4x4 graphical table showing grid of histograms of original data in row 1, histograms of sample averages for n = 5, 30, 100 in row 2 3 & 4, 
+
+7.Assess normality of results for for each n = 100
+
+8. Draw Conclusions
+    - How was the simulation built
+    - Show results of Simulation
+    - How do results support CLT
+    - What was learned about behaviour of sample means relative to original population of random variables
+    - In what situations can CLT be appropriately applied?
+    - Do we agree with rule of thumb that n should be > 30? If not, what rule of thumb do we use?
+    - most significant Conclusion
+    - Any other observations/conclusions?
+    - How much did each team member contribute?
+    
+
+9. Make 5-10 minute presentation
