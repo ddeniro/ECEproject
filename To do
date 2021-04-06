@@ -1,24 +1,26 @@
-1. Create Simulation of four non-normal random samples
-    - Exponential
-    - Weibull
-    - Uniform
-    - Inverse Triangle
+1. (done) Create Simulation of four non-normal random samples
+    - (d0ne) Exponential
+    - (done)Weibull
+    - (done) Uniform
+    - (done, but we should change to be in terms of a and b instead of constant parameters) Inverse Triangle
+        -I'm not super familiar with python, but it looks like we're arbitrarily placing b. It would be easier to define B as the halfway point, since that's how our math works out anyways
+
 
 2. (done)use premade random number generator to simulate distributions
 
-3. For the triangle do the following for random number generator
+3. (I assumew done ) For the triangle do the following for random number generator
     -Compute PDF
     -Compute CDF
     -Solve for x by creating inverse CDF
     -Use random uniform numbers between 0 and 1 as input for inverse PDF
 
-4. Generate >50000 random data values for each distributions
+4. (done) Generate >50000 random data values for each distributions
 
-5. Make independent samples averages x_bar of size n = 5, 30, 100
+5. (done) Make independent samples averages x_bar of size n = 5, 30, 100
 
-6. Make a 4x4 graphical table showing grid of histograms of original data in row 1, histograms of sample averages for n = 5, 30, 100 in row 2 3 & 4, 
+6. (done) Make a 4x4 graphical table showing grid of histograms of original data in row 1, histograms of sample averages for n = 5, 30, 100 in row 2 3 & 4, 
 
-7.Assess normality of results for for each n = 100
+7. Assess normality of results for for each n = 100
 
 8. Draw Conclusions
     - How was the simulation built
