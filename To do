@@ -20,7 +20,7 @@
 
 6. (done) Make a 4x4 graphical table showing grid of histograms of original data in row 1, histograms of sample averages for n = 5, 30, 100 in row 2 3 & 4, 
 
-7. Assess normality of results for for each n = 100
+7. (done) Assess normality of results for for each n = 100
 
 8. Draw Conclusions
     - How was the simulation built
